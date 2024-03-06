@@ -1,0 +1,14 @@
+/Users/danielrekoske/Documents/GitHub/chessAI/bin/Debug/net8.0/chessAI
+/Users/danielrekoske/Documents/GitHub/chessAI/bin/Debug/net8.0/chessAI.deps.json
+/Users/danielrekoske/Documents/GitHub/chessAI/bin/Debug/net8.0/chessAI.runtimeconfig.json
+/Users/danielrekoske/Documents/GitHub/chessAI/bin/Debug/net8.0/chessAI.dll
+/Users/danielrekoske/Documents/GitHub/chessAI/bin/Debug/net8.0/chessAI.pdb
+/Users/danielrekoske/Documents/GitHub/chessAI/obj/Debug/net8.0/chessAI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielrekoske/Documents/GitHub/chessAI/obj/Debug/net8.0/chessAI.AssemblyInfoInputs.cache
+/Users/danielrekoske/Documents/GitHub/chessAI/obj/Debug/net8.0/chessAI.AssemblyInfo.cs
+/Users/danielrekoske/Documents/GitHub/chessAI/obj/Debug/net8.0/chessAI.csproj.CoreCompileInputs.cache
+/Users/danielrekoske/Documents/GitHub/chessAI/obj/Debug/net8.0/chessAI.dll
+/Users/danielrekoske/Documents/GitHub/chessAI/obj/Debug/net8.0/refint/chessAI.dll
+/Users/danielrekoske/Documents/GitHub/chessAI/obj/Debug/net8.0/chessAI.pdb
+/Users/danielrekoske/Documents/GitHub/chessAI/obj/Debug/net8.0/chessAI.genruntimeconfig.cache
+/Users/danielrekoske/Documents/GitHub/chessAI/obj/Debug/net8.0/ref/chessAI.dll
